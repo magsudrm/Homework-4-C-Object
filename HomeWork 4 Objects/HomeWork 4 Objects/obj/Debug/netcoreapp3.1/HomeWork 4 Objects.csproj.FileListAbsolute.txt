@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.exe
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.dll
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\bin\Debug\netcoreapp3.1\HomeWork 4 Objects.pdb
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.dll
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.pdb
+C:\Users\Maqsud\Desktop\Homeworks\HomeWork 4 Objects\HomeWork 4 Objects\obj\Debug\netcoreapp3.1\HomeWork 4 Objects.genruntimeconfig.cache
